@@ -11,6 +11,11 @@ img{
 }
 h1{
 padding-left:400px;
-color: rgb(239, 26, 26);
+color: rgb(247, 241, 241);
+font-size: 40px;
 
+}
+.p-1{
+  color: beige;
+  font-size: 20px;
 }
